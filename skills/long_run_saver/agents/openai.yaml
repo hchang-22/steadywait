@@ -1,0 +1,4 @@
+interface:
+  display_name: "SteadyWait"
+  short_description: "Wait efficiently on long-running work"
+  default_prompt: "Use $long_run_saver to monitor this long-running task with fewer status polls."
